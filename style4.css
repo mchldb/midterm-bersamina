@@ -1,0 +1,28 @@
+body{
+    font-family: 'palatino';
+    background-color: #c9d6ff;
+    background: linear-gradient(to right, #e2e2e2, #879e82);
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #666b5e;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    background-color: #666b5e;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: #879e82;
+}
+
+.navbar li{ 
+    float: left;
+}

@@ -1,0 +1,51 @@
+body {
+     font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #DFF5FF;
+    }
+    
+    .navbar ul{
+        list-style-type: none;
+        background-color: #879e82;
+        padding: 0px;
+        margin: 0px;
+        overflow: hidden;
+    }
+    
+    .navbar a{
+        color: white;
+        text-decoration: none;
+        padding: 15px;
+        display: block;
+        text-align: center;
+    }
+    .navbar a:hover{
+        background-color: #666b5e;
+    }
+    
+    .navbar li{ 
+        float: left;
+    }
+    
+    .audio-section, .lyrics-section {
+    text-align: center;
+    margin: 2em 0;
+    }
+    
+    .lyrics-container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #f8f0e2;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(72, 147, 239, 0.403);
+    }
+    ul{
+        list-style-type: none;
+      }
+      li{
+        list-style-type: none;
+      }
+
+    

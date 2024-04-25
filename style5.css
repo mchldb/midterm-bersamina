@@ -1,0 +1,34 @@
+body{
+    font-family: 'palatino';
+    background-color: #292b33;
+    background: linear-gradient(to right, #e2e2e2, #879e82);
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #879e82;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.table{
+    border-radius: 2px;
+    border-collapse: collapse;
+    border: black solid 40px;
+    margin: 20px;
+    padding: 30px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: #666b5e;
+}
+
+.navbar li{ 
+    float: left;
+}

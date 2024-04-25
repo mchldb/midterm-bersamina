@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'palatino';
    margin: 0;
    padding: 0;
    background: linear-gradient(to right, #879e82, #666b5e);
@@ -7,7 +7,7 @@ body {
    
    .navbar ul{
        list-style-type: none;
-       background-color: #EFDECD;
+       background-color: #666b5e;
        padding: 0px;
        margin: 0px;
        overflow: hidden;
@@ -21,7 +21,7 @@ body {
        text-align: center;
    }
    .navbar a:hover{
-       background-color: #9F8170;
+       background-color: #879e82;
    }
    
    .navbar li{ 
